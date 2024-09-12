@@ -1,0 +1,14 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/settings
+
+title: My Awesome Homepage
+language: zh-CN
+headerStyle: clean
+layout:
+  self-hosted:
+    style: row
+    columns: 5
+  SaaS:
+    style: row
+    columns: 3

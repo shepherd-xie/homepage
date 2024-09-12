@@ -1,0 +1,22 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/services
+
+- self-hosted:
+    - Nginx Proxy Manager:
+        icon: nginx-proxy-manager
+        href: https://npm.byius.com/
+    - Xui:
+        href: https://xui.byius.com/
+    - qBittorrent:
+        href: https://bittorrent.byius.com/
+    - A List: 
+        href: https://alist.byius.com/
+    - bitwander: 
+        icon: bitwarden.png
+        href: https://key.byius.com/
+    - subconverter: 
+        href: https://sub.byius.com/
+    - Short Link:
+        href: https://s.byius.com/
+    

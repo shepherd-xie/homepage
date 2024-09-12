@@ -1,0 +1,29 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/latest/configs/bookmarks
+
+- SaaS:
+    - Github:
+        - abbr: GH
+          icon: github
+          href: https://github.com/shepherd-xie
+    - Cloud Flare:
+        - abbr: CF
+          icon: cloudflare
+          href: https://dash.cloudflare.com/
+    - AWS:
+        - abbr: AWS
+          icon: amazon
+          href: https://ap-northeast-1.console.aws.amazon.com/console/home?nc2=h_ct&region=ap-northeast-1&src=header-signin#
+    - Bandwagon HOST:
+        - abbr: BW
+          icon: bandwagon
+          href: https://kiwivm.64clouds.com/
+    - Zoho Mail:
+        - abbr: ZM
+          icon: https://www.zoho.com/favicon.ico
+          href: https://mailadmin.zoho.com/cpanel/home.do#dashboard
+    - ZeroTier:
+        - abbr: ZT
+          icon: zerotier
+          href: https://my.zerotier.com/
